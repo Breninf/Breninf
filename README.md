@@ -2,12 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A4388&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD;MY+NAME+is+Breno+Felipe;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<p align="center">
 🎓 Estudante de Sistemas de Informação, em constante evolução na área de tecnologia.
+</p>
 
+<p align="center">
 🔍 Tenho interesse em conhecer diferentes áreas da tecnologia, buscando identificar minha especialização enquanto desenvolvo projetos práticos e fortaleço minhas habilidades.
+</p>
 
+<p align="center">
 🎯 Meu objetivo é conquistar minha primeira oportunidade na área e crescer como desenvolvedor, contribuindo com soluções eficientes e bem estruturadas.
-
+</p>
 <!--
 **Breninf/Breninf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
