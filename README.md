@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/AWS-0A4388?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
+
 
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
