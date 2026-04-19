@@ -58,9 +58,9 @@
   <img src="https://streak-stats.demolab.com?user=Breninf&theme=github_dark&hide_border=true"/>
 </p>
 
-<h3 align="center">📫 Contato</h3>
-
 ---
+
+<h3 align="center">📫 Contato</h3>
 
 <p align="center">
   <a href="mailto:felipebreno411@gmail.com">
