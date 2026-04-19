@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Docker-0A4388?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0A4388?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-0A4388?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-0A4388?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </p>
 
 ---
