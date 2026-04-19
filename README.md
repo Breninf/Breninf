@@ -58,4 +58,17 @@
   <img src="https://streak-stats.demolab.com?user=Breninf&theme=github_dark&hide_border=true"/>
 </p>
 
+<h3 align="center">📫 Contato</h3>
+
+---
+
+<p align="center">
+  <a href="mailto:felipebreno411@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A4388?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/breno-felipe-437388400/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A4388?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A4388&height=120&section=footer"/>
