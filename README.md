@@ -36,9 +36,13 @@
 <h3 align="center">📚 Estudando no momento</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-0A4388?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0A4388?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0A4388?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-0A4388?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0A4388?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0A4388?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0A4388?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-0A4388?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
